@@ -66,17 +66,8 @@
     <td width="50%" align="center">
       <h3><strong>GitHub Stats</strong></h3>
     </td>
-    <td width="50%" align="center">
-      <h3><strong>Streak Stats</strong></h3>
-    </td>
   </tr>
   <tr>
-    <td align="center">
-      <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/Abdelhamid-elaali/Emailer-Pro">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Suhaib3100&repo=cf_ai_percify_avatar_copilot&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Plura SaaS" />
-      </a>
-    </td>
     <td align="center">
       <h3><strong>Top Contributions</strong></h3>
       <a href="https://github.com/Dev203-Podo">
@@ -113,9 +104,15 @@
 <br/>
 <br clear="both">
 
-  <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.gif">
-  <img align="left" alt="GIF description" src="./github-contribution-grid-snake.gif">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
+</p>
+
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
