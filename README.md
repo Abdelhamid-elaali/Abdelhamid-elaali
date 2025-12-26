@@ -113,8 +113,9 @@
 <br/>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Abdelhamid-elaali/Abdelhamid-elaali/output/snake.svg" alt="Snake animation" />
-
+  <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.gif">
+  <img align="left" alt="GIF description" src="./github-contribution-grid-snake.gif">
+</picture>
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
