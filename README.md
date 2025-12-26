@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="50%"  src="./dev-v.png">
+<img align="right" width="550px" height="650px" src="./dev-v.png" />
 </div>
 
 <!--Header Name-->
@@ -24,7 +24,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Suhaib3100&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Abdelhamid-elaali&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
 ---
@@ -59,9 +59,7 @@
 <br clear="both"/>
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
-<table width="100%">
+<table width="100%" align="center" >
   <tr>
     <td width="50%" align="center">
       <h3><strong>GitHub Stats</strong></h3>
