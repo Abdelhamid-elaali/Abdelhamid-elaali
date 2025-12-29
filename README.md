@@ -92,8 +92,8 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-  [![Contact](https://img.shields.io/badge/%20abdelhamidelaali.bs007@gmail.com-red?style=for-the-badge)](mailto:abdelhamid@example.com)
-  [![Portfolio](https://img.shields.io/badge/%20Visit%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdelhamidlboss.vercel.app)
+  [![Contact](https://img.shields.io/badge/%20abdelhamidelaali@gmail.com-red?style=for-the-badge)](mailto:abdelhamidelaali@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/%20Visit%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lboss.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhamid-el-aali/)
   [![GitHub](https://img.shields.io/badge/%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelhamid-elaali)
   
