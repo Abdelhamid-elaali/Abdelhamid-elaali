@@ -60,19 +60,7 @@
 
 <!-- GitHub Stats -->
 <table width="100%" align="center" >
-  <tr>
-    <td width="50%" align="center">
-      <h3><strong>GitHub Stats</strong></h3>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3><strong>Top Contributions</strong></h3>
-      <a href="https://github.com/Abdelhamid-elaali/Emailer-Pro">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Abdelhamid-elaali&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-      </a>
-    </td>
-  </tr>
+
 </table>
 <br />
 
