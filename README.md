@@ -15,7 +15,7 @@
 <p align="left">I am a Full Stack Developer with strong expertise in Next.js, React.js, Node.js, Express, and Python, along with experience in building APIs and backend systems.</p>
 
 - ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that every day is a learning opportunity.
+- 🌱 I’m currently learning many things. I believe that every day is a learning opportunity.
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://abdelhamidlboss.vercel.app/) for more details about me.
 - 🖤 Clean code is the art of making chaos look elegant
