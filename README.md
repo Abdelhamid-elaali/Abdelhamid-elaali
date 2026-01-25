@@ -39,16 +39,24 @@
 </picture>
 <br />
 
-<h3 align="left">Current Learning</h3>
+<h3 align="center">Building Strong Foundations</h3>
 <ul align="left">
-  <li>Expanding my expertise in Next.js for full-stack development.</li>
-  <li>Deepening my understanding of Python OOP concepts.</li>
-  <li>Enhancing my backend skills with Express and API development.</li>
-  <li>Learning about serverless functions and microservices architecture.</li>
-  <li>Working with SQL and NoSQL databases for efficient data handling.</li>
-  <li>Understanding cloud deployment, domain management, and SSL setup.</li>
-</ul>
   
+    - > HTML, CSS, JavaScript, Git & GitHub 🧩
+  
+    - > VS Code & Developer Tools 🛠️
+    
+    - > Python (Currently Learning) 🐍
+    
+    - > Computer Science Fundamentals 🧠
+    
+    - > Cyber Security Basics 🛡️
+      
+    - > Learning Journey & Tech Blogs 🚀
+
+</ul>
+
+
 <br />
 <br />
 <br />
