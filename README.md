@@ -1,6 +1,9 @@
 <!--Banner-->
-![Abdelhamid's Banner Image](./Banner.png)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Banner.png">
+  <source media="(prefers-color-scheme: light)" srcset="./Banner-github-light.png">
+</picture>
 <!--Night Owl image-->
 <div>
 <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" />
