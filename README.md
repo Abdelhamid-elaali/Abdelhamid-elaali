@@ -1,8 +1,8 @@
 <!--Banner-->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Banner.png">
   <source media="(prefers-color-scheme: light)" srcset="./Banner-github-light.png">
+  <img alt="Your descriptive alt text here" src="./Banner-github-light.png">
 </picture>
 <!--Night Owl image-->
 <div>
