@@ -85,7 +85,7 @@
 <div align="center">
   
   [![Contact](https://img.shields.io/badge/%20abdelhamidelaali@gmail.com-red?style=for-the-badge)](mailto:abdelhamidelaali@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/%20Visit%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)]((https://elaali.space/))
+  [![Portfolio](https://img.shields.io/badge/%20Visit%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://elaali.space/)
   [![LinkedIn](https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhamid-el-aali/)
   [![GitHub](https://img.shields.io/badge/%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelhamid-elaali)
   
