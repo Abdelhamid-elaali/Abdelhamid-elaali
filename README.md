@@ -20,7 +20,7 @@
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things. I believe that every day is a learning opportunity.
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio]((https://elaali.space/)) for more details about me.
+- 💻 Visit my [Portfolio](https://elaali.space/) for more details about me.
 - 🖤 Clean code is the art of making chaos look elegant
 
 <!--End Intro-->
