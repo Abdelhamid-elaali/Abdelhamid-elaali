@@ -83,11 +83,21 @@
 <!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-  
-  [![Contact](https://img.shields.io/badge/%20abdelhamidelaali@gmail.com-red?style=for-the-badge)](mailto:abdelhamidelaali@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/%20Visit%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://elaali.space/)
-  [![LinkedIn](https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhamid-el-aali/)
-  [![GitHub](https://img.shields.io/badge/%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelhamid-elaali)
+  <a href="https://elaali.space/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/abdelhamid-el-aali/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:abdelhamidelaali@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/vtx__007" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=X&logoColor=white" />
+  </a>
   
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
